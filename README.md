@@ -1,7 +1,8 @@
-# HTML Only Portfolio
-This project is a solution to the [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap.sh](https://roadmap.sh/)
+# mypage
 
-A personal portfolio page built with **plain HTML only** no CSS, no JavaScript, no frameworks. The goal of this project is to practice semantic HTML structure, accessibility basics, and proper document layout without relying on styling.
+A personal portfolio page built with **plain HTML only** — no CSS, no JavaScript, no frameworks. The goal of this project is to practice semantic HTML structure, accessibility basics, and proper document layout without relying on styling.
+
+This project is a solution to the [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## About
 
@@ -44,10 +45,10 @@ Since this is a static HTML file with no dependencies, you can simply open it di
 
 ```bash
 # Clone the repo
-git clone https://github.com/barbaracarolinedsb/YOUR-REPO-NAME.git
+git clone https://github.com/barbaracarolinedsb/mypage.git
 
 # Enter the project folder
-cd YOUR-REPO-NAME
+cd mypage
 
 # Open index.html in your browser
 ```
